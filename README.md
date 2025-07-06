@@ -40,7 +40,8 @@ Como parte da solução, este projeto foi contratado com os seguintes objetivos:
 Me chamo Nicolás, e sou apaixonado por análise de dados e machine learning.  
 Conecte-se comigo no LinkedIn clicando no botão abaixo! 👇
 
-[![LinkedIn](https://img.shields.io/badge/👤%20LinkedIn-Conecte--se-blue)](www.linkedin.com/in/nicolás-rivarola-011223176)
+📬 Me adicione no [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin) 
+
 
 ---
 
