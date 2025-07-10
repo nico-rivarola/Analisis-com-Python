@@ -61,4 +61,4 @@ Conecte-se comigo no LinkedIn clicando no botão abaixo! 👇
 
 1. Clone o repositório  
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git](https://github.com/nico-rivarola/Analisis-com-Python.git
+git clone https://github.com/nico-rivarola/Analisis-com-Python.git
